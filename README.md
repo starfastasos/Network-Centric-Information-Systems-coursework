@@ -1,4 +1,4 @@
-# Analytical README
+# Gym Management System
 
 ## Table of Contents
 1. [Project Description](#project-description)
